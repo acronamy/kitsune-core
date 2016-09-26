@@ -1,6 +1,7 @@
 #Build files
 *.ts
 tsconfig.json
+typings
 
 # Logs
 logs
